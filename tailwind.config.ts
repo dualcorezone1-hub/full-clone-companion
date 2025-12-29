@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        facebook: {
+          DEFAULT: "hsl(var(--facebook-blue))",
+        },
+        meta: {
+          DEFAULT: "hsl(var(--meta-gray))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
